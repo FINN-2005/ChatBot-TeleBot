@@ -23,11 +23,10 @@ git clone https://github.com/FINN-2005/ChatBot-TeleBot.git
 ```
 2. Create a `data.json` file based on the provided template and fill in your bot token, whitelist, models, and settings.
 ```json
-// Template
 {
     "bot_token" : "0123456789:PutBotTokenHere012345678901_abcdefgh",
     "whitelist" : {
-        "finn" : 0123456789
+        "finn" : 1234567890
     },
     "admin" : "finn",
     "model_list" : {
